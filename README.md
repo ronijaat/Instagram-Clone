@@ -11,7 +11,6 @@ Live at :: https://careful-clam-undershirt.cyclic.cloud/
 
  🔵 Sign in and Sign up
  🔵 Create, like, unlike, and comment post
- 🔵 Delete the comment
  🔵 Delete the post
  🔵 View user profile
  🔵 View other users profile
